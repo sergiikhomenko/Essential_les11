@@ -1,0 +1,15 @@
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/bin/Debug/net8.0/test4
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/bin/Debug/net8.0/test4.deps.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/bin/Debug/net8.0/test4.runtimeconfig.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/bin/Debug/net8.0/test4.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/bin/Debug/net8.0/test4.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.AssemblyInfoInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.AssemblyInfo.cs
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.csproj.CoreCompileInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.sourcelink.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/refint/test4.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/test4.genruntimeconfig.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/test4/obj/Debug/net8.0/ref/test4.dll

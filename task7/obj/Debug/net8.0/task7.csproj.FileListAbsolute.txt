@@ -1,0 +1,15 @@
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/bin/Debug/net8.0/task7
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/bin/Debug/net8.0/task7.deps.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/bin/Debug/net8.0/task7.runtimeconfig.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/bin/Debug/net8.0/task7.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/bin/Debug/net8.0/task7.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.AssemblyInfoInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.AssemblyInfo.cs
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.csproj.CoreCompileInputs.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.sourcelink.json
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/refint/task7.dll
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.pdb
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/task7.genruntimeconfig.cache
+/Users/sergij_khomenko/Documents/GitHub/Essential_les11/task7/obj/Debug/net8.0/ref/task7.dll
